@@ -1,0 +1,6 @@
+{
+  "name": "LogiTwin",
+  "description": "Real-time logistics execution, scanner and warehouse digital twin tracker.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

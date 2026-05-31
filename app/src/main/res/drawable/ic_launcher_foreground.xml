@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Logistics Crate Shape (Centered) -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M24,24 h60 v60 h-60 z M30,30 v48 h48 v-48 z" />
+    <!-- Barcode Strip 1 -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M37,37 h6 v34 h-6 z" />
+    <!-- Barcode Strip 2 -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M49,37 h4 v34 h-4 z" />
+    <!-- Barcode Strip 3 -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M59,37 h8 v34 h-8 z" />
+    <!-- Barcode Strip 4 -->
+    <path
+        android:fillColor="#FCD34D"
+        android:pathData="M73,37 h3 v34 h-3 z" />
+</vector>
